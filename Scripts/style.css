@@ -1,0 +1,271 @@
+BODY {
+	padding:0px; TEXT-ALIGN: center; MARGIN: 0px; BACKGROUND: #EDEDED url('../Images/bg00.jpg') repeat-x left top; COLOR: #000000; font-style:normal; font-variant:normal; font-weight:normal; font-size:100%; font-family:Verdana, Arial, Helvetica, sans-serif
+}
+.imgbdr {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; MARGIN-LEFT: 10px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 3px
+}
+.top {
+	TEXT-ALIGN: right; FONT-WEIGHT: bold
+}
+.thrColElsHdr #container {
+	BORDER-BOTTOM: #000000 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #000000 1px solid; MARGIN: 0px auto; WIDTH: 60em;height:60em; BACKGROUND: #ffffff; BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; margin-top: 0.5em;
+}
+.thrColElsHdr #header {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #ffffff; PADDING-TOP: 0px
+}
+.thrColElsHdr #header H1 {
+	PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.thrColElsHdr #sidebar1 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 12em; PADDING-RIGHT: 0px;  FLOAT: left; PADDING-TOP: 0px
+}
+.thrColElsHdr #sidebar2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 255px; PADDING-RIGHT: 0px; BACKGROUND: #ebebeb; FLOAT: right; PADDING-TOP: 0px
+}
+.thrColElsHdr #sidebar1 H3 {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+
+.thrColElsHdr #sidebar2 P {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px COLOR: #0A0154; FONT-SIZE: 12px
+}
+.thrColElsHdr #sidebar2 H3 {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px; margin-top:10px;
+}
+.thrColElsHdr #mainContent {
+	BORDER-BOTTOM: #ebebeb 1px solid; TEXT-ALIGN: justify; BORDER-LEFT: #ebebeb 1px solid; PADDING-BOTTOM: 5px; MARGIN: 0px 17em 0px 13em; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #ebebeb 1px solid; BORDER-RIGHT: #ebebeb 1px solid; PADDING-TOP: 5px
+}
+#mainContent H1 {
+	BACKGROUND: #00FF06 0px 0px; COLOR: #000080; FONT-SIZE: 17px; margin-top: 41px;
+}
+#mainContent H2 {
+	FONT-SIZE: 15px
+}
+#mainContent P {
+	COLOR: #0A0154; FONT-SIZE: 12px
+}
+#mainContent A {
+	COLOR: #000080; FONT-SIZE: 12px
+}
+.bulletpoints A {
+	PADDING-LEFT: 22px; BACKGROUND: url(../images/arrow.gif) no-repeat 7px 3px; COLOR: #094081; MARGIN-LEFT: 0px
+}
+.bulletpoints LI {
+	LIST-STYLE: none none outside; TEXT-ALIGN: left; LINE-HEIGHT: 20px; MARGIN-LEFT: -40px
+}
+.points {
+	COLOR: #333399; MARGIN-LEFT: 5px; FONT-SIZE: 12px
+}
+.thrColElsHdr #footer {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/footer-bg.gif); PADDING-TOP: 0px
+}
+.thrColElsHdr #footer P {
+	PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.fltrt {
+	FLOAT: right; MARGIN-LEFT: 8px
+}
+.fltlft {
+	FLOAT: left; MARGIN-RIGHT: 8px
+}
+.clearfloat {
+	LINE-HEIGHT: 0px; HEIGHT: 0px; CLEAR: both; FONT-SIZE: 1px
+}
+#banner {
+	
+}
+#banner H3 {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #0000FF; COLOR: #ffffff; FONT-SIZE: 14px; PADDING-TOP: 3px
+}
+#banner-img {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px; PADDING-TOP: 5px
+}
+#banner-img-kit {
+	
+}
+#language {
+	TEXT-ALIGN: right; PADDING-RIGHT: 10px; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+#language A {
+	COLOR: #cc3300
+}
+#tabsI {
+	BORDER-BOTTOM: #dd740b 1px solid; LINE-HEIGHT: normal; WIDTH: 100%; BACKGROUND: #2595d7; FLOAT: left; COLOR: #330099; FONT-SIZE: 100%
+}
+#tabsI UL {
+	PADDING-BOTTOM: 3px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#tabsI LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 0px
+}
+#tabsI A {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #2595d7; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; FLOAT: left; COLOR: #330099; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+#tabsI A SPAN {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 13px; DISPLAY: block; BACKGROUND: url(../images/tabrightI1.jpg) no-repeat right top; FLOAT: left; COLOR: #330099; FONT-SIZE: 11px; FONT-WEIGHT: bold; PADDING-TOP: 4px
+}
+#tabsI A SPAN {
+	FLOAT: none
+}
+#tabsI A:hover SPAN {
+	COLOR: #fff
+}
+#tabsI A:hover {
+	BACKGROUND-POSITION: 0% -42px
+}
+#tabsI A:hover SPAN {
+	BACKGROUND-POSITION: 100% -42px
+}
+#navigation A {
+	PADDING-LEFT: 16px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND: url(../images/tablb.jpg) #00FF00 no-repeat left top; COLOR: #000; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none; padding-bottom:10px; padding-top: 10px; PADDING-RIGHT:16px
+}
+#navigation A SPAN {
+	 BACKGROUND: url(../images/tabrb.jpg) no-repeat right top
+}
+#navigation A {
+	DISPLAY: block; FLOAT: left
+}
+#navigation A SPAN {
+	DISPLAY: block; FLOAT: left
+}
+#navigation A {
+	FLOAT: none
+}
+#navigation A SPAN {
+	FLOAT: none
+}
+#navigation A:hover {
+	PADDING-LEFT: 16px; BACKGROUND: url(../images/tablo.jpg) #000066 no-repeat left top; COLOR: #000; PADDING-RIGHT: 16px
+}
+#navigation A:hover SPAN {
+	BACKGROUND: url(../images/tabro.jpg) no-repeat right top
+}
+#navigation UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#navigation LI {
+	MARGIN: 0px; FLOAT: left
+}
+.glossymenu {
+	BORDER-BOTTOM: #ebebeb 10px solid; BORDER-LEFT: #ebebeb 10px solid; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 170px; PADDING-RIGHT: 0px; BORDER-TOP: #ebebeb 10px solid; BORDER-RIGHT: #ebebeb 10px solid; PADDING-TOP: 0px
+}
+.glossymenu A.menuitem {
+	POSITION: relative; PADDING-BOTTOM: 4px; PADDING-LEFT: 10px; WIDTH: auto; PADDING-RIGHT: 0px; DISPLAY: block; FONT: bold 14px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif; BACKGROUND: blue repeat-x left bottom; COLOR: white; TEXT-DECORATION: none; PADDING-TOP: 4px
+}
+.glossymenu A.menuitem:visited {
+	COLOR: white
+}
+.glossymenu .menuitem:active {
+	COLOR: white
+}
+.glossymenu A.menuitem .statusicon {
+	BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: medium none; BORDER-TOP: medium none; TOP: 5px; RIGHT: 5px; BORDER-RIGHT: medium none
+}
+.glossymenu A.menuitem:hover {
+	BACKGROUND-IMAGE: url(../images/glossyback2.gif)
+}
+.glossymenu DIV.submenu {
+	BACKGROUND: white
+}
+.glossymenu DIV.submenu UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.glossymenu DIV.submenu UL LI {
+	BORDER-BOTTOM: blue 1px solid
+}
+.glossymenu DIV.submenu UL LI A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; DISPLAY: block; FONT: 13px "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, sans-serif; COLOR: black; PADDING-TOP: 2px
+}
+.glossymenu DIV.submenu UL LI A:hover {
+	BACKGROUND: #dfdccb; color: white
+}
+#slider UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#slider LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#slider {
+	WIDTH: 250px; HEIGHT: 175px; OVERFLOW: hidden
+}
+#slider LI {
+	WIDTH: 250px; HEIGHT: 175px; OVERFLOW: hidden
+}
+#slider {
+	MARGIN-LEFT: 5px
+}
+#prevBtn {
+	POSITION: absolute; WIDTH: 30px; DISPLAY: block; HEIGHT: 77px; TOP: 71px; LEFT: -25px
+}
+#nextBtn {
+	POSITION: absolute; WIDTH: 30px; DISPLAY: block; HEIGHT: 77px; TOP: 71px; LEFT: -25px
+}
+#nextBtn {
+	LEFT: 701px
+}
+#prevBtn A {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: url(../images/btn_prev.gif) no-repeat 0px 0px; HEIGHT: 77px
+}
+#nextBtn A {
+	WIDTH: 30px; DISPLAY: block; BACKGROUND: url(../images/btn_prev.gif) no-repeat 0px 0px; HEIGHT: 77px
+}
+#nextBtn A {
+	BACKGROUND: url(../images/btn_next.gif) no-repeat 0px 0px
+}
+.col STRONG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #f1f1f1; PADDING-TOP: 0px
+}
+.full STRONG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BACKGROUND: #f1f1f1; PADDING-TOP: 0px
+}
+.col A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.full A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.full UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.full LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.full LI {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; MARGIN-BOTTOM: 1px; BACKGROUND: #f1f1f1; PADDING-TOP: 3px
+}
+#sidelist UL {
+	TEXT-ALIGN: left; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff0000; MARGIN-LEFT: -5px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#sidelist LI {
+	TEXT-ALIGN: left; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff0000; MARGIN-LEFT: -5px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#sidelist A {
+	TEXT-ALIGN: left; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #ff0000; MARGIN-LEFT: -5px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+TABLE .case {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #99cc66; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.kit {
+	WIDTH: 480px; FLOAT: right
+}
+.kit .header {
+	BACKGROUND-COLOR: #99cc66; FONT-FAMILY: Arial, Helvetica, sans-serif; FLOAT: left; COLOR: #990000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.kit .header .hname {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; WIDTH: 460px; PADDING-RIGHT: 2px; FLOAT: left; PADDING-TOP: 2px
+}
+.kit .content {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px
+}
+.kit .content .image {
+	MARGIN: 10px; WIDTH: 200px; FLOAT: center
+}
+.kit .content .text {
+	TEXT-ALIGN: justify; MARGIN: 10px; WIDTH: 240px; FLOAT: right; COLOR: #990000
+}
+.kit .content .text .top2 {
+	PADDING-RIGHT: 15px; FONT-FAMILY: Arial, Helvetica, sans-serif; FLOAT: right; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.bottomlink {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #AAFA05; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #000080; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
